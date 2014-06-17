@@ -22,7 +22,7 @@ from setuptools import setup
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
-version = '0.6'
+version = '0.6.1'
 
 def main():
     setup(name         = 'robotframework-databaselibrary',
